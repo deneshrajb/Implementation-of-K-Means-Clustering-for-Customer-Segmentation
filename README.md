@@ -75,11 +75,16 @@ plt.title("Customer Segments")
 ## Output:
 <img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/6a5327d3-c5f5-4092-9796-0a0468c1d46c" />
 
+
 <img width="1062" height="611" alt="image" src="https://github.com/user-attachments/assets/1c8dc08b-f91c-4b3c-85c1-f136e0e5d6eb" />
+
 
 <img width="788" height="226" alt="image" src="https://github.com/user-attachments/assets/b214d7db-441b-4b4c-91c1-74822122a29d" />
 
+
 <img width="892" height="577" alt="image" src="https://github.com/user-attachments/assets/ad5e777c-1c4f-4ab0-a6eb-b0db00e65c2b" />
+
+
 
 
 ## Result:
